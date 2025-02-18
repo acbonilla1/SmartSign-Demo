@@ -1,6 +1,6 @@
 # MIT-Future-Makers-Web-App
 
-Other Code & Learning via Createathon (not inside this demo): https://github.com/acbonilla1/Futuremakers2022
+All my other code & learning via the Createathon (not inside this demo): https://github.com/acbonilla1/Futuremakers2022
 
 Instructions to run App:
 
